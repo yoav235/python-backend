@@ -1,0 +1,26 @@
+[
+  {
+    "id": "123456782",
+    "name": "David Cohen",
+    "phone": "052-1234567",
+    "address": "Herzl St 12, Tel Aviv"
+  },
+  {
+    "id": "208945673",
+    "name": "Lea Levi",
+    "phone": "054-9876543",
+    "address": "Ben Yehuda 45, Jerusalem"
+  },
+  {
+    "id": "318721654",
+    "name": "Yossi Azulay",
+    "phone": "050-5551234",
+    "address": "Hagana 23, Haifa"
+  },
+  {
+    "id": "234567890",
+    "name": "Invalid User",
+    "phone": "12345",
+    "address": "Unknown"
+  }
+]
