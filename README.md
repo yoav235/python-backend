@@ -46,7 +46,7 @@ This is a simple Django-based REST server that manages user data.
 ### Option 1: Clone from GitHub
 ```bash
 git clone https://github.com/yoav235/python-backend.git
-cd aqua-assignment
+cd ./python-backend
 ```
 
 ### Option 2: If you received a ZIP file
@@ -63,7 +63,6 @@ source venv/bin/activate
 
 ### Install dependencies
 ```bash
-cd ./python-backend
 pip install -r requirements.txt
 ```
 
