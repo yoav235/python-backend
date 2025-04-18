@@ -99,22 +99,6 @@ project/
 
 ---
 
-## 📧 Contacts
-
-- If you chose Python:  
-  Reach out to Anna (anna.dinaburg@aquasec.com) or Dima (dmitry.atanov@aquasec.com)
-
-- For other languages:  
-  Contact Tamir (tamir.kiviti@aquasec.com) or Nazem (nazem@aquasec.com)
-
-- When you're done:  
-  Send your assignment to Ayelet (ayelet@aquasec.com) and Neta (neta.rushinek@aquasec.com)
-
----
-
-Best of luck!
-
----
 
 ## ✅ Running Tests
 
