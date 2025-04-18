@@ -110,3 +110,28 @@ python manage.py test
 
 This will run the test suite defined in `users/tests.py`.
 
+---
+
+## 🔐 Accessing Django Admin Panel
+
+To access the Django Admin interface and manage users visually:
+
+### 1. Create a superuser
+```bash
+python manage.py createsuperuser
+```
+You will be prompted to enter a username, email (optional), and password.
+
+### 2. Run the server
+```bash
+python manage.py runserver
+```
+
+### 3. Open your browser and go to:
+```
+http://127.0.0.1:8000/admin/
+```
+
+### 4. Log in using the superuser credentials you just created.
+
+Once logged in, you will see the `User` model and be able to add, edit, or delete users via a simple web interface.
