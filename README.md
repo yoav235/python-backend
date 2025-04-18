@@ -63,6 +63,7 @@ source venv/bin/activate
 
 ### Install dependencies
 ```bash
+cd ./python-backend
 pip install -r requirements.txt
 ```
 
